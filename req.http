@@ -1,0 +1,13 @@
+//POST https://webhook.site/06e79382-2e71-45e6-ac24-adf6536b53a5
+
+GET http://165.227.106.113/header.php
+User-Agent: Sup3rS3cr3tAg3nt
+Referer: awesomesauce.com
+
+###
+POST http://165.227.106.113/post.php
+Content-Type: multipart/form-data
+
+username=admin&password=71urlkufpsdnlkadsf
+
+###
